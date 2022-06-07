@@ -2,7 +2,6 @@
 <h3 align="center">A passionate fullstack developer from egypt</h3>
 
 
-- 🔭 I’m currently working on [NTI_Project](https://github.com/mhmdahmedfathi/NTI_Project)
 
 - 🌱 I’m currently learning **Angular,Vuejs**
 
