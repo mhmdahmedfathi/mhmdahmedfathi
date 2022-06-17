@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular,Vuejs**
 
-- 💬 Ask me about **react , nodejs,javascript , MONGO, HTML,CSS**
+- 💬 Ask me about **react , nodejs , javascript , MONGO, HTML,CSS**
 
 - 📫 How to reach me **mohamed.ahmedmoreb@gmail.com**
 
