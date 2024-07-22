@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Angular,Vuejs**
 
-- 💬 Ask me about **react , nodejs , javascript , MONGO, HTML,CSS**
+- 💬 Ask me about **react , next, nodejs , javascript , Typescrript, HTML,CSS**
 
 - 📫 How to reach me **mohamed.ahmedmoreb@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NZNgcOmSfndGKL7pTQamG16l7nJoVc-j/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1NZNgcOmSfndGKL7pTQamG16l7nJoVc-j/view?usp=sharing](https://drive.google.com/file/d/1ntn3jceLTEOIHnrUqJqFHDXJXsK6pSWz/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
