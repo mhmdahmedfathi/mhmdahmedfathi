@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed Fathy</h1>
 <h3 align="center">A passionate fullstack developer from egypt</h3>
 
-<h3 align="center"> As a highly skilled and experienced software engineer, I am dedicated to developing innovative and efficient solutions to complex problems. With a strong background in computer science and extensive experience in software development, I have a proven track record of delivering high-quality products that meet or exceed customer expectations. My skills include proficiency in multiple programming languages, expertise in software architecture design, and proven ability to work collaboratively with cross-functional teams to achieve project goals. Additionally, I am committed to staying up-to-date with the latest industry trends and technologies, ensuring that my work remains cutting-edge and relevant.</h3>
+<h3 align="left"> As a highly skilled and experienced software engineer, I am dedicated to developing innovative and efficient solutions to complex problems. With a strong background in computer science and extensive experience in software development, I have a proven track record of delivering high-quality products that meet or exceed customer expectations. My skills include proficiency in multiple programming languages, expertise in software architecture design, and proven ability to work collaboratively with cross-functional teams to achieve project goals. Additionally, I am committed to staying up-to-date with the latest industry trends and technologies, ensuring that my work remains cutting-edge and relevant.</h3>
 
 - 💬 Ask me about **react , nextjs, nodejs , javascript , Typescript, HTML,CSS**
 
